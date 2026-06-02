@@ -1,5 +1,7 @@
 # Vinícius Menezes
 
+![alt text](https://github.com/vmenezesdev/vmenezesdev/blob/trunk/assets/perfil.png "Logo Title Text 1")
+
 Backend / AI Platform Engineer building reliable systems for document-heavy and AI-powered products.
 
 Currently founding engineer at DefendaMe, working on document pipelines, search infrastructure, OCR, transcription, RAG workflows, observability and AI cost tracking.
